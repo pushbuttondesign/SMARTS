@@ -13,7 +13,7 @@ For more detailed simulation, see MODTRAN: http://modtran.spectral.com/
 
 ## Usage
 
-requies that the file ./data/yreturn.txt exist and the SMARTS_295_Mac program is installed to the same folder
+requies that the file ./data/yreturn.txt exist and the SMARTS_295 program is installed to the same folder
 
 *********************************
 
