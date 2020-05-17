@@ -11,13 +11,13 @@ For more detailed simulation, see MODTRAN: http://modtran.spectral.com/
 
 *********************************
 
-##Usage
+## Usage
 
 requies that the file ./data/yreturn.txt exist and the SMARTS_295_Mac program is installed to the same folder
 
 *********************************
 
-##Functions
+## Functions
 
 - SMARTSsettup - Generates the ./smarts295.inp.txt required by SMARTS to run Runs the SMARTS program
 
