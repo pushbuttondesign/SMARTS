@@ -1,4 +1,4 @@
-# SMARTS295
+# SMARTS
 C tool for running the SMARTS daylight simulation program
 Libary contains C functions for driving SMARTS from your own C program
 
