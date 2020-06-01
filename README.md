@@ -9,6 +9,8 @@ Register to download it. Note it is free for non-commercial use only.
 
 For more detailed simulation, see MODTRAN: http://modtran.spectral.com/
 
+For real world data to perform validation, try the free NREL database: http://rredc.nrel.gov/solar/old_data/spectral/
+
 *********************************
 
 ## Usage
